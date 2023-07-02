@@ -1,9 +1,9 @@
 
 
-Below Image show how Event Handeling work with firstName inputfield
 
 
-![Screenshot (132)_LI](https://user-images.githubusercontent.com/66914300/122548911-8eb2ac00-d04f-11eb-963c-283f71d69114.jpg)
+
+
 
 
 
